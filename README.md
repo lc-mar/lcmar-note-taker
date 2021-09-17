@@ -1,7 +1,7 @@
 # lcmar-note-taker
 
 ## Description
-This application is essentially an online journal to keep track of notes and thoughts. 
+This application is essentially an online journal to keep track of notes and thoughts. You can add multiple notes and save them 
 
 ## User Story
 
